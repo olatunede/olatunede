@@ -1,0 +1,28 @@
+<!DOCTYPE>
+<HTML>
+
+
+ 
+ <div style="text-align:center;margin-top: 100px;background-color: black;"><img src="logo 1.png"></div>
+ 
+    <h1 style="font-size:50px; text-align:center;">KING'S KITCHEN</h1>
+ 
+<div style="text-align:center;margin-top: 40px;"> 
+  <a style="padding-right: 20px;color: black;" href="home.html">Home</a>
+  <a style="padding-right: 20px;color: black;" href="about.html">About</a>
+  <a style="padding-right: 20px;color: black;" href="service.html">Services</a>
+  <a style="padding-right: 20px;color: black;" href="contact us.html">Contact Us</a>
+  </div>
+  
+   <h1 style="font-size:50px; text-align:center;">A new adventure in food </h1>
+
+ 
+  
+ <ol>
+  <li> COCONUT RICE</1i>
+     <li>CHICKEN</2i>
+   <li>PEPPER SOUP</3i>
+  </ol>
+  
+  
+</HTML> 
